@@ -1,7 +1,7 @@
 {
   "name": "git-merge-conflicts",
   "main": "./lib/git-merge-conflicts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Resolve git conflicts within Atom (placeholder)",
   "activationEvents": [],
   "repository": "https://github.com/smashwilson/git-merge-conflicts",
@@ -9,6 +9,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

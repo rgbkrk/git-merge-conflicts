@@ -2,9 +2,9 @@
   "name": "git-merge-conflicts",
   "main": "./lib/git-merge-conflicts",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "activationEvents": ["git-merge-conflicts:toggle"],
-  "repository": "https://github.com/atom/git-merge-conflicts",
+  "description": "Resolve git conflicts within Atom (placeholder)",
+  "activationEvents": [],
+  "repository": "https://github.com/smashwilson/git-merge-conflicts",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

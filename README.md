@@ -1,5 +1,7 @@
-# git-merge-conflicts package
+# Git Merge Conflicts
 
-A short description of your package.
+This is a placeholder package for what is currently called [merge-conflicts](https://atom.io/packages/merge-conflicts). Install that one for now, and I'll move it here once there's a graceful way to rename it without breaking everyone who's already using it.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+And now, here's a juicy .gif to show you why you should bother to click another link:
+
+![conflict-resolution](https://raw.github.com/smashwilson/merge-conflicts/master/docs/conflict-resolution.gif)
